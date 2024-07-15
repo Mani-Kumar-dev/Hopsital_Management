@@ -1,0 +1,1849 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "Nurse",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "LabTest",
+        "importPath": "lab.models",
+        "description": "lab.models",
+        "isExtraImport": true,
+        "detail": "lab.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "string",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "string",
+        "description": "string",
+        "detail": "string",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "HMS.app.migrations.0001_initial",
+        "description": "HMS.app.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Nurse',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=100)),",
+        "detail": "HMS.app.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "HMS.app.migrations.0002_alter_nurse_certifications_alter_nurse_experience_and_more",
+        "description": "HMS.app.migrations.0002_alter_nurse_certifications_alter_nurse_experience_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('app', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='nurse',\n            name='certifications',\n            field=models.CharField(max_length=255),\n        ),",
+        "detail": "HMS.app.migrations.0002_alter_nurse_certifications_alter_nurse_experience_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "kind": 6,
+        "importPath": "HMS.app.apps",
+        "description": "HMS.app.apps",
+        "peekOfCode": "class AppConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'app'",
+        "detail": "HMS.app.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Nurse",
+        "kind": 6,
+        "importPath": "HMS.app.models",
+        "description": "HMS.app.models",
+        "peekOfCode": "class Nurse(models.Model):\n    GENDER_CHOICES = [\n        ('F', 'Female'),\n        ('M', 'Male'),\n    ]\n    SHIFT_CHOICES = [\n        ('5:00 AM - 1:00 PM', '5:00 AM - 1:00 PM'),\n        ('1:00 PM - 9:00 PM', '1:00 PM - 9:00 PM'),\n        ('9:00 PM - 5:00 AM', '9:00 PM - 5:00 AM'),\n    ]",
+        "detail": "HMS.app.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "HMS.app.urls",
+        "description": "HMS.app.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', login_view, name='login'),\n    path('register/', register_view, name='register'),\n    path('dashboard/', dashboard, name='dashboard'),\n    path('nurses/', nurses, name='nurses'),\n    path('add_nurse/', add_nurse, name='add_nurse'),\n    path('update_nurse/<int:nurse_id>/', update_nurse, name='update_nurse'),\n    path('delete_nurse/<int:nurse_id>/', delete_nurse, name='delete_nurse'),  # Add this line\n    path('logout/', logout_view, name='logout'),\n]+ static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "detail": "HMS.app.urls",
+        "documentation": {}
+    },
+    {
+        "label": "login_view",
+        "kind": 2,
+        "importPath": "HMS.app.views",
+        "description": "HMS.app.views",
+        "peekOfCode": "def login_view(request):\n    if request.method == 'POST':\n        username = request.POST['username']\n        password = request.POST['password']\n        user = authenticate(request, username=username, password=password)\n        if user is not None:\n            login(request, user)\n            if user.is_staff:  # Assuming admin users have the 'is_staff' flag set\n                return redirect('dashboard')\n            else:",
+        "detail": "HMS.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "register_view",
+        "kind": 2,
+        "importPath": "HMS.app.views",
+        "description": "HMS.app.views",
+        "peekOfCode": "def register_view(request):\n    if request.method == 'POST':\n        username = request.POST['username']\n        email = request.POST['email']\n        password = request.POST['password']\n        confirm_password = request.POST['confirm_password']\n        if password != confirm_password:\n            messages.error(request, 'Passwords do not match')\n            return redirect('register')\n        if User.objects.filter(username=username).exists():",
+        "detail": "HMS.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "other_page",
+        "kind": 2,
+        "importPath": "HMS.app.views",
+        "description": "HMS.app.views",
+        "peekOfCode": "def other_page(request):\n    return render(request, 'other_page.html')  # Replace 'other_page.html' with the actual template for non-admin users\ndef logout_view(request):\n    logout(request)\n    return redirect('login')  # Replace 'login' with the name of your login URL pattern\n@login_required(login_url=\"/login\")\ndef dashboard(request):\n    return render(request, 'dashboard.html')\n@login_required(login_url=\"/login\")\ndef nurses(request):",
+        "detail": "HMS.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "logout_view",
+        "kind": 2,
+        "importPath": "HMS.app.views",
+        "description": "HMS.app.views",
+        "peekOfCode": "def logout_view(request):\n    logout(request)\n    return redirect('login')  # Replace 'login' with the name of your login URL pattern\n@login_required(login_url=\"/login\")\ndef dashboard(request):\n    return render(request, 'dashboard.html')\n@login_required(login_url=\"/login\")\ndef nurses(request):\n    all_nurses = Nurse.objects.all()\n    return render(request, 'nurses_list.html', {'nurses': all_nurses})",
+        "detail": "HMS.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "dashboard",
+        "kind": 2,
+        "importPath": "HMS.app.views",
+        "description": "HMS.app.views",
+        "peekOfCode": "def dashboard(request):\n    return render(request, 'dashboard.html')\n@login_required(login_url=\"/login\")\ndef nurses(request):\n    all_nurses = Nurse.objects.all()\n    return render(request, 'nurses_list.html', {'nurses': all_nurses})\n@login_required(login_url=\"/login\")\ndef add_nurse(request):\n    if request.method == 'POST':\n        nurse_name = request.POST['nurseName']",
+        "detail": "HMS.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "nurses",
+        "kind": 2,
+        "importPath": "HMS.app.views",
+        "description": "HMS.app.views",
+        "peekOfCode": "def nurses(request):\n    all_nurses = Nurse.objects.all()\n    return render(request, 'nurses_list.html', {'nurses': all_nurses})\n@login_required(login_url=\"/login\")\ndef add_nurse(request):\n    if request.method == 'POST':\n        nurse_name = request.POST['nurseName']\n        nurse_gender = request.POST['nurseGender']\n        nurse_department = request.POST['nurseDepartment']\n        nurse_shift = request.POST['nurseShift']",
+        "detail": "HMS.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_nurse",
+        "kind": 2,
+        "importPath": "HMS.app.views",
+        "description": "HMS.app.views",
+        "peekOfCode": "def add_nurse(request):\n    if request.method == 'POST':\n        nurse_name = request.POST['nurseName']\n        nurse_gender = request.POST['nurseGender']\n        nurse_department = request.POST['nurseDepartment']\n        nurse_shift = request.POST['nurseShift']\n        nurse_care = request.POST['nurseCare']\n        nurse_experience = request.POST['nurseExperience']\n        nurse_certifications = request.POST['nurseCertifications']\n        nurse_contact = request.POST['nurseContact']",
+        "detail": "HMS.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "update_nurse",
+        "kind": 2,
+        "importPath": "HMS.app.views",
+        "description": "HMS.app.views",
+        "peekOfCode": "def update_nurse(request, nurse_id):\n    nurse = get_object_or_404(Nurse, id=nurse_id)\n    if request.method == 'POST':\n        nurse.name = request.POST['nurseName']\n        nurse.gender = request.POST['nurseGender']\n        nurse.department = request.POST['nurseDepartment']\n        nurse.shift = request.POST['nurseShift']\n        nurse.care = request.POST['nurseCare']\n        nurse.experience = request.POST['nurseExperience']\n        nurse.certifications = request.POST['nurseCertifications']",
+        "detail": "HMS.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "delete_nurse",
+        "kind": 2,
+        "importPath": "HMS.app.views",
+        "description": "HMS.app.views",
+        "peekOfCode": "def delete_nurse(request, nurse_id):\n    nurse = get_object_or_404(Nurse, id=nurse_id)\n    if request.method == 'POST':\n        nurse.delete()\n        return redirect('nurses')\n        messages.success(request, 'Nurse deleted successfully.')\n    return render(request, 'nurses.html', {'nurses': Nurse.objects.all()})\ndef logout_view(request):\n    logout(request)\n    return redirect('login')",
+        "detail": "HMS.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "logout_view",
+        "kind": 2,
+        "importPath": "HMS.app.views",
+        "description": "HMS.app.views",
+        "peekOfCode": "def logout_view(request):\n    logout(request)\n    return redirect('login')",
+        "detail": "HMS.app.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "HMS.doctor.migrations.0001_initial",
+        "description": "HMS.doctor.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Doctor',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('first_name', models.CharField(max_length=100)),",
+        "detail": "HMS.doctor.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorConfig",
+        "kind": 6,
+        "importPath": "HMS.doctor.apps",
+        "description": "HMS.doctor.apps",
+        "peekOfCode": "class DoctorConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'doctor'",
+        "detail": "HMS.doctor.apps",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorForm",
+        "kind": 6,
+        "importPath": "HMS.doctor.forms",
+        "description": "HMS.doctor.forms",
+        "peekOfCode": "class DoctorForm(forms.ModelForm):\n    class Meta:\n        model = Doctor\n        fields = ['first_name', 'last_name', 'location', 'experience', 'specialty', 'availability', 'img']",
+        "detail": "HMS.doctor.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Doctor",
+        "kind": 6,
+        "importPath": "HMS.doctor.models",
+        "description": "HMS.doctor.models",
+        "peekOfCode": "class Doctor(models.Model):\n    first_name = models.CharField(max_length=100)\n    last_name = models.CharField(max_length=100)\n    location = models.CharField(max_length=100)\n    experience = models.IntegerField()\n    specialty = models.CharField(max_length=100)\n    availability = models.CharField(max_length=10)\n    img = models.ImageField(upload_to='doctors/', blank=True, null=True)",
+        "detail": "HMS.doctor.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "HMS.doctor.urls",
+        "description": "HMS.doctor.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.doctor_list, name='doctor_list'),\n    path('<int:pk>/', views.doctor_detail, name='doctor_detail'),\n    path('add/', views.add_doctor, name='add_doctor'),\n    path('<int:pk>/edit/', views.edit_doctor, name='edit_doctor'),  \n    path('<int:pk>/delete/', views.doctor_delete, name='delete_doctor'),   \n    path('<int:pk>/form/', views.doctor_form, name='doctor_form'),\n]+ static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "detail": "HMS.doctor.urls",
+        "documentation": {}
+    },
+    {
+        "label": "doctor_list",
+        "kind": 2,
+        "importPath": "HMS.doctor.views",
+        "description": "HMS.doctor.views",
+        "peekOfCode": "def doctor_list(request):\n    doctors = Doctor.objects.all()\n    return render(request, 'doctor_list.html', {'doctors': doctors})\ndef doctor_detail(request, pk):\n    doctor = get_object_or_404(Doctor, pk=pk)\n    return render(request, 'doctor_detail.html', {'doctor': doctor})\ndef add_doctor(request):\n    if request.method == 'POST':\n        form = DoctorForm(request.POST, request.FILES)\n        if form.is_valid():",
+        "detail": "HMS.doctor.views",
+        "documentation": {}
+    },
+    {
+        "label": "doctor_detail",
+        "kind": 2,
+        "importPath": "HMS.doctor.views",
+        "description": "HMS.doctor.views",
+        "peekOfCode": "def doctor_detail(request, pk):\n    doctor = get_object_or_404(Doctor, pk=pk)\n    return render(request, 'doctor_detail.html', {'doctor': doctor})\ndef add_doctor(request):\n    if request.method == 'POST':\n        form = DoctorForm(request.POST, request.FILES)\n        if form.is_valid():\n            form.save()\n            return redirect('doctor_list')  # Redirect to the doctor list page after adding a doctor\n    else:",
+        "detail": "HMS.doctor.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_doctor",
+        "kind": 2,
+        "importPath": "HMS.doctor.views",
+        "description": "HMS.doctor.views",
+        "peekOfCode": "def add_doctor(request):\n    if request.method == 'POST':\n        form = DoctorForm(request.POST, request.FILES)\n        if form.is_valid():\n            form.save()\n            return redirect('doctor_list')  # Redirect to the doctor list page after adding a doctor\n    else:\n        form = DoctorForm()\n    return render(request, 'add_doctor.html', {'form': form})\ndef edit_doctor(request, pk):",
+        "detail": "HMS.doctor.views",
+        "documentation": {}
+    },
+    {
+        "label": "edit_doctor",
+        "kind": 2,
+        "importPath": "HMS.doctor.views",
+        "description": "HMS.doctor.views",
+        "peekOfCode": "def edit_doctor(request, pk):\n    doctor = get_object_or_404(Doctor, pk=pk)\n    if request.method == 'POST':\n        form = DoctorForm(request.POST, instance=doctor)\n        if form.is_valid():\n            form.save()\n            return redirect('doctor_list')\n    else:\n        form = DoctorForm(instance=doctor)\n    return render(request, 'edit_doctor.html', {'form': form,})",
+        "detail": "HMS.doctor.views",
+        "documentation": {}
+    },
+    {
+        "label": "doctor_delete",
+        "kind": 2,
+        "importPath": "HMS.doctor.views",
+        "description": "HMS.doctor.views",
+        "peekOfCode": "def doctor_delete(request, pk):\n    doctor = get_object_or_404(Doctor, pk=pk)\n    if request.method == 'POST':\n        doctor.delete()\n        return redirect('doctor_list')\n    return render(request, 'doctor_confirm_delete.html', {'doctor': doctor})\ndef doctor_form(request, pk):\n    doctor = get_object_or_404(Doctor, pk=pk)\n    return render(request, 'doctor_form.html', {'doctor': doctor})",
+        "detail": "HMS.doctor.views",
+        "documentation": {}
+    },
+    {
+        "label": "doctor_form",
+        "kind": 2,
+        "importPath": "HMS.doctor.views",
+        "description": "HMS.doctor.views",
+        "peekOfCode": "def doctor_form(request, pk):\n    doctor = get_object_or_404(Doctor, pk=pk)\n    return render(request, 'doctor_form.html', {'doctor': doctor})",
+        "detail": "HMS.doctor.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "HMS.Emergency_Ward.migrations.0001_initial",
+        "description": "HMS.Emergency_Ward.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Patient',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=100)),",
+        "detail": "HMS.Emergency_Ward.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "kind": 6,
+        "importPath": "HMS.Emergency_Ward.apps",
+        "description": "HMS.Emergency_Ward.apps",
+        "peekOfCode": "class AppConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'Emergency_Ward'",
+        "detail": "HMS.Emergency_Ward.apps",
+        "documentation": {}
+    },
+    {
+        "label": "PatientForm",
+        "kind": 6,
+        "importPath": "HMS.Emergency_Ward.forms",
+        "description": "HMS.Emergency_Ward.forms",
+        "peekOfCode": "class PatientForm(forms.ModelForm):\n    class Meta:\n        model = Patient\n        fields = ['name', 'age', 'gender', 'admission_date', 'diagnosis', 'room_number', 'discharge_date']\nclass PatientUpdateForm(forms.ModelForm):\n    class Meta:\n        model = Patient\n        fields = ['name', 'age', 'gender', 'admission_date', 'diagnosis', 'room_number', 'discharge_date']",
+        "detail": "HMS.Emergency_Ward.forms",
+        "documentation": {}
+    },
+    {
+        "label": "PatientUpdateForm",
+        "kind": 6,
+        "importPath": "HMS.Emergency_Ward.forms",
+        "description": "HMS.Emergency_Ward.forms",
+        "peekOfCode": "class PatientUpdateForm(forms.ModelForm):\n    class Meta:\n        model = Patient\n        fields = ['name', 'age', 'gender', 'admission_date', 'diagnosis', 'room_number', 'discharge_date']",
+        "detail": "HMS.Emergency_Ward.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Patient",
+        "kind": 6,
+        "importPath": "HMS.Emergency_Ward.models",
+        "description": "HMS.Emergency_Ward.models",
+        "peekOfCode": "class Patient(models.Model):\n    name = models.CharField(max_length=100)\n    age = models.IntegerField()\n    gender = models.CharField(max_length=10)\n    admission_date = models.DateField()\n    diagnosis = models.TextField()\n    room_number = models.IntegerField()\n    discharge_date = models.DateField(null=True, blank=True)\n    def __str__(self):\n        return self.name",
+        "detail": "HMS.Emergency_Ward.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "HMS.Emergency_Ward.urls",
+        "description": "HMS.Emergency_Ward.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.patient_list, name='patient_list'),\n    path('create_patient/', views.patient_create, name='patient_create'),\n    path('patient_detail/', views.patient_detail, name='patient_detail'),\n    path('patient/<int:pk>/update/', views.patient_update, name='patient_update'),\n    path('patient/<int:pk>/delete/', views.patient_delete, name='patient_delete'),\n]+ static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)",
+        "detail": "HMS.Emergency_Ward.urls",
+        "documentation": {}
+    },
+    {
+        "label": "patient_list",
+        "kind": 2,
+        "importPath": "HMS.Emergency_Ward.views",
+        "description": "HMS.Emergency_Ward.views",
+        "peekOfCode": "def patient_list(request):\n    patients = Patient.objects.all()\n    return render(request, 'patient_list.html', {'patients': patients})\ndef patient_detail(request):\n    patient = Patient.objects.all()\n    return render(request, 'patient_detail.html', {'patient': patient})\ndef patient_create(request):\n    if request.method == 'POST':\n        form = PatientForm(request.POST)\n        if form.is_valid():",
+        "detail": "HMS.Emergency_Ward.views",
+        "documentation": {}
+    },
+    {
+        "label": "patient_detail",
+        "kind": 2,
+        "importPath": "HMS.Emergency_Ward.views",
+        "description": "HMS.Emergency_Ward.views",
+        "peekOfCode": "def patient_detail(request):\n    patient = Patient.objects.all()\n    return render(request, 'patient_detail.html', {'patient': patient})\ndef patient_create(request):\n    if request.method == 'POST':\n        form = PatientForm(request.POST)\n        if form.is_valid():\n            patient = form.save()\n            print(patient)\n            return redirect('patient_list')  # Use the URL name for redirecting",
+        "detail": "HMS.Emergency_Ward.views",
+        "documentation": {}
+    },
+    {
+        "label": "patient_create",
+        "kind": 2,
+        "importPath": "HMS.Emergency_Ward.views",
+        "description": "HMS.Emergency_Ward.views",
+        "peekOfCode": "def patient_create(request):\n    if request.method == 'POST':\n        form = PatientForm(request.POST)\n        if form.is_valid():\n            patient = form.save()\n            print(patient)\n            return redirect('patient_list')  # Use the URL name for redirecting\n    else:\n        form = PatientForm()\n    return render(request, 'patient_create.html', {'form': form})",
+        "detail": "HMS.Emergency_Ward.views",
+        "documentation": {}
+    },
+    {
+        "label": "patient_update",
+        "kind": 2,
+        "importPath": "HMS.Emergency_Ward.views",
+        "description": "HMS.Emergency_Ward.views",
+        "peekOfCode": "def patient_update(request, pk):\n    patient = get_object_or_404(Patient, pk=pk)\n    if request.method == 'POST':\n        form = PatientUpdateForm(request.POST, instance=patient)\n        if form.is_valid():\n            form.save()\n            return redirect('patient_list')\n    else:\n        form = PatientUpdateForm(instance=patient)\n    return render(request, 'patient_update.html', {'form': form})",
+        "detail": "HMS.Emergency_Ward.views",
+        "documentation": {}
+    },
+    {
+        "label": "patient_delete",
+        "kind": 2,
+        "importPath": "HMS.Emergency_Ward.views",
+        "description": "HMS.Emergency_Ward.views",
+        "peekOfCode": "def patient_delete(request, pk):\n    patient = get_object_or_404(Patient, pk=pk)\n    if request.method == 'POST':\n        patient.delete()\n        return redirect('patient_list')\n    return render(request, 'patient_delete.html', {'patient': patient})",
+        "detail": "HMS.Emergency_Ward.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "HMS.HMS.asgi",
+        "description": "HMS.HMS.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "HMS.HMS.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "HMS.HMS.settings",
+        "description": "HMS.HMS.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\nPatientsDir = os.path.join(BASE_DIR,'Patients')\nTEMPLATES_PATIENTS = os.path.join(PatientsDir,'templates')\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-%q-pm39f=g!uzu$w&@538*&f#33+n(=9@f+x=#4&+q4=g8^&o0'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []",
+        "detail": "HMS.HMS.settings",
+        "documentation": {}
+    },
+    {
+        "label": "PatientsDir",
+        "kind": 5,
+        "importPath": "HMS.HMS.settings",
+        "description": "HMS.HMS.settings",
+        "peekOfCode": "PatientsDir = os.path.join(BASE_DIR,'Patients')\nTEMPLATES_PATIENTS = os.path.join(PatientsDir,'templates')\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-%q-pm39f=g!uzu$w&@538*&f#33+n(=9@f+x=#4&+q4=g8^&o0'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition",
+        "detail": "HMS.HMS.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES_PATIENTS",
+        "kind": 5,
+        "importPath": "HMS.HMS.settings",
+        "description": "HMS.HMS.settings",
+        "peekOfCode": "TEMPLATES_PATIENTS = os.path.join(PatientsDir,'templates')\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-%q-pm39f=g!uzu$w&@538*&f#33+n(=9@f+x=#4&+q4=g8^&o0'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "HMS.HMS.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "HMS.HMS.settings",
+        "description": "HMS.HMS.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-%q-pm39f=g!uzu$w&@538*&f#33+n(=9@f+x=#4&+q4=g8^&o0'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "HMS.HMS.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "HMS.HMS.settings",
+        "description": "HMS.HMS.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "HMS.HMS.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "HMS.HMS.settings",
+        "description": "HMS.HMS.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'app',",
+        "detail": "HMS.HMS.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "HMS.HMS.settings",
+        "description": "HMS.HMS.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'app',\n    'Patients',\n    'nurses',",
+        "detail": "HMS.HMS.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "HMS.HMS.settings",
+        "description": "HMS.HMS.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'HMS.urls'",
+        "detail": "HMS.HMS.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "HMS.HMS.settings",
+        "description": "HMS.HMS.settings",
+        "peekOfCode": "ROOT_URLCONF = 'HMS.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [TEMPLATES_PATIENTS],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "HMS.HMS.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "HMS.HMS.settings",
+        "description": "HMS.HMS.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [TEMPLATES_PATIENTS],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "HMS.HMS.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "HMS.HMS.settings",
+        "description": "HMS.HMS.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'HMS.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "HMS.HMS.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "HMS.HMS.settings",
+        "description": "HMS.HMS.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "HMS.HMS.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "HMS.HMS.settings",
+        "description": "HMS.HMS.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "HMS.HMS.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "HMS.HMS.settings",
+        "description": "HMS.HMS.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR,'static'),\n]",
+        "detail": "HMS.HMS.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "HMS.HMS.settings",
+        "description": "HMS.HMS.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR,'static'),\n]\nMEDIA_URL = '/media/'",
+        "detail": "HMS.HMS.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "HMS.HMS.settings",
+        "description": "HMS.HMS.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR,'static'),\n]\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')",
+        "detail": "HMS.HMS.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "HMS.HMS.settings",
+        "description": "HMS.HMS.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR,'static'),\n]\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# Default primary key field type",
+        "detail": "HMS.HMS.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "HMS.HMS.settings",
+        "description": "HMS.HMS.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\nSTATICFILES_DIRS = [\n    os.path.join(BASE_DIR,'static'),\n]\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "HMS.HMS.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "HMS.HMS.settings",
+        "description": "HMS.HMS.settings",
+        "peekOfCode": "STATICFILES_DIRS = [\n    os.path.join(BASE_DIR,'static'),\n]\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "HMS.HMS.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "HMS.HMS.settings",
+        "description": "HMS.HMS.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "HMS.HMS.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "HMS.HMS.settings",
+        "description": "HMS.HMS.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "HMS.HMS.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "HMS.HMS.settings",
+        "description": "HMS.HMS.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "HMS.HMS.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "HMS.HMS.urls",
+        "description": "HMS.HMS.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('',include('app.urls')),\n    path('patients/',include('Patients.urls')),\n    path('doctor/',include('doctor.urls')),\n    path('Emergency_Ward/',include('Emergency_Ward.urls')),\n    path('Op_T/',include('Op_T.urls')),\n    path('pharmacist/',include('pharmacist.urls')),\n    path('lab/',include('lab.urls')),\n]",
+        "detail": "HMS.HMS.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "HMS.HMS.wsgi",
+        "description": "HMS.HMS.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "HMS.HMS.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "HMS.lab.migrations.0001_initial",
+        "description": "HMS.lab.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='LabTest',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('patient_id', models.CharField(max_length=100)),",
+        "detail": "HMS.lab.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "kind": 6,
+        "importPath": "HMS.lab.apps",
+        "description": "HMS.lab.apps",
+        "peekOfCode": "class AppConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'lab'",
+        "detail": "HMS.lab.apps",
+        "documentation": {}
+    },
+    {
+        "label": "LabTestForm",
+        "kind": 6,
+        "importPath": "HMS.lab.forms",
+        "description": "HMS.lab.forms",
+        "peekOfCode": "class LabTestForm(forms.ModelForm):\n    TEST_TYPE_CHOICES = [\n        ('', 'Choose a Test'),\n        ('blood-tests', 'Blood Tests'),\n        ('urine-tests', 'Urine Tests'),\n        ('stool-tests', 'Stool Tests'),\n        ('x-rays', 'X-rays'),\n        ('ct-scan', 'CT Scan'),\n        ('mri', 'MRI'),\n        ('ecg-ekg', 'ECG / EKG'),",
+        "detail": "HMS.lab.forms",
+        "documentation": {}
+    },
+    {
+        "label": "LabTest",
+        "kind": 6,
+        "importPath": "HMS.lab.models",
+        "description": "HMS.lab.models",
+        "peekOfCode": "class LabTest(models.Model):\n    patient_id = models.CharField(max_length=100)\n    patient_name = models.CharField(max_length=100)\n    patient_age = models.IntegerField()\n    patient_disease = models.CharField(max_length=100)\n    test_type = models.CharField(max_length=100)\n    test_date = models.DateField()\n    technician_name = models.CharField(max_length=100)  # New field for lab technician name\n    def __str__(self):\n        return self.patient_name",
+        "detail": "HMS.lab.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "HMS.lab.urls",
+        "description": "HMS.lab.urls",
+        "peekOfCode": "urlpatterns = [    \n    path('', labtest_list, name='labtest_list'),\n    path('add/', add_lab_test, name='add_lab_test'),\n    path('update/<int:pk>/', update_lab_test, name='update_lab_test'),\n    path('delete/<int:pk>/', delete_lab_test, name='delete_lab_test'),\n]+ static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "detail": "HMS.lab.urls",
+        "documentation": {}
+    },
+    {
+        "label": "add_lab_test",
+        "kind": 2,
+        "importPath": "HMS.lab.views",
+        "description": "HMS.lab.views",
+        "peekOfCode": "def add_lab_test(request):\n    if request.method == 'POST':\n        form = LabTestForm(request.POST, request.FILES)\n        if form.is_valid():\n            form.save()\n            return redirect('labtest_list')\n    return redirect('labtest_list')\ndef update_lab_test(request, pk):\n    lab_test = get_object_or_404(LabTest, pk=pk)\n    if request.method == 'POST':",
+        "detail": "HMS.lab.views",
+        "documentation": {}
+    },
+    {
+        "label": "update_lab_test",
+        "kind": 2,
+        "importPath": "HMS.lab.views",
+        "description": "HMS.lab.views",
+        "peekOfCode": "def update_lab_test(request, pk):\n    lab_test = get_object_or_404(LabTest, pk=pk)\n    if request.method == 'POST':\n        form = LabTestForm(request.POST, request.FILES, instance=lab_test)\n        if form.is_valid():\n            form.save()\n            return redirect('labtest_list')\n    return redirect('labtest_list')\ndef delete_lab_test(request, pk):\n    lab_test = get_object_or_404(LabTest, pk=pk)",
+        "detail": "HMS.lab.views",
+        "documentation": {}
+    },
+    {
+        "label": "delete_lab_test",
+        "kind": 2,
+        "importPath": "HMS.lab.views",
+        "description": "HMS.lab.views",
+        "peekOfCode": "def delete_lab_test(request, pk):\n    lab_test = get_object_or_404(LabTest, pk=pk)\n    if request.method == 'POST':\n        lab_test.delete()\n        return redirect('labtest_list')\n    return redirect('labtest_list')\ndef labtest_list(request):\n    lab_tests = LabTest.objects.all()\n    return render(request, 'labtest_list.html', {'lab_tests': lab_tests})",
+        "detail": "HMS.lab.views",
+        "documentation": {}
+    },
+    {
+        "label": "labtest_list",
+        "kind": 2,
+        "importPath": "HMS.lab.views",
+        "description": "HMS.lab.views",
+        "peekOfCode": "def labtest_list(request):\n    lab_tests = LabTest.objects.all()\n    return render(request, 'labtest_list.html', {'lab_tests': lab_tests})",
+        "detail": "HMS.lab.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "HMS.Op_T.migrations.0001_initial",
+        "description": "HMS.Op_T.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='OperationTheatre',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('patient_ID', models.IntegerField()),",
+        "detail": "HMS.Op_T.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "App1Config",
+        "kind": 6,
+        "importPath": "HMS.Op_T.apps",
+        "description": "HMS.Op_T.apps",
+        "peekOfCode": "class App1Config(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'Op_T'",
+        "detail": "HMS.Op_T.apps",
+        "documentation": {}
+    },
+    {
+        "label": "OperationTheatreForm",
+        "kind": 6,
+        "importPath": "HMS.Op_T.forms",
+        "description": "HMS.Op_T.forms",
+        "peekOfCode": "class OperationTheatreForm(forms.ModelForm):\n    class Meta:\n        model = OperationTheatre\n        fields = '__all__'",
+        "detail": "HMS.Op_T.forms",
+        "documentation": {}
+    },
+    {
+        "label": "OperationTheatre",
+        "kind": 6,
+        "importPath": "HMS.Op_T.models",
+        "description": "HMS.Op_T.models",
+        "peekOfCode": "class OperationTheatre(models.Model):\n    patient_ID = models.IntegerField()\n    Name = models.CharField(max_length=100)\n    Age = models.IntegerField()\n    Disease = models.CharField(max_length=100)\n    Type_of_Surgery = models.CharField(max_length=100)\n    Surgery_Doctors = models.CharField(max_length=255)\n    Surgery_Nurses = models.CharField(max_length=255)\n    date = models.DateField()\n    time = models.TimeField()",
+        "detail": "HMS.Op_T.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "HMS.Op_T.urls",
+        "description": "HMS.Op_T.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.list_operation_theatre, name='list'),\n    path('add/', views.add_operation_theatre, name='add'),\n    path('edit/<int:pk>/', views.edit_operation_theatre, name='edit'),\n    path('delete/<int:pk>/', views.delete_operation_theatre, name='delete'),\n]",
+        "detail": "HMS.Op_T.urls",
+        "documentation": {}
+    },
+    {
+        "label": "list_operation_theatre",
+        "kind": 2,
+        "importPath": "HMS.Op_T.views",
+        "description": "HMS.Op_T.views",
+        "peekOfCode": "def list_operation_theatre(request):\n    operations = OperationTheatre.objects.all()\n    return render(request, 'list.html', {'operations': operations})\ndef add_operation_theatre(request):\n    if request.method == 'POST':\n        form = OperationTheatreForm(request.POST)\n        if form.is_valid():\n            form.save()\n            return redirect('list')\n    else:",
+        "detail": "HMS.Op_T.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_operation_theatre",
+        "kind": 2,
+        "importPath": "HMS.Op_T.views",
+        "description": "HMS.Op_T.views",
+        "peekOfCode": "def add_operation_theatre(request):\n    if request.method == 'POST':\n        form = OperationTheatreForm(request.POST)\n        if form.is_valid():\n            form.save()\n            return redirect('list')\n    else:\n        form = OperationTheatreForm()\n    return render(request, 'add.html', {'form': form})\ndef edit_operation_theatre(request, pk):",
+        "detail": "HMS.Op_T.views",
+        "documentation": {}
+    },
+    {
+        "label": "edit_operation_theatre",
+        "kind": 2,
+        "importPath": "HMS.Op_T.views",
+        "description": "HMS.Op_T.views",
+        "peekOfCode": "def edit_operation_theatre(request, pk):\n    operation = get_object_or_404(OperationTheatre, pk=pk)\n    if request.method == 'POST':\n        form = OperationTheatreForm(request.POST, instance=operation)\n        if form.is_valid():\n            form.save()\n            return redirect('list')\n    else:\n        form = OperationTheatreForm(instance=operation)\n    return render(request, 'edit.html', {'form': form, 'operation': operation})",
+        "detail": "HMS.Op_T.views",
+        "documentation": {}
+    },
+    {
+        "label": "delete_operation_theatre",
+        "kind": 2,
+        "importPath": "HMS.Op_T.views",
+        "description": "HMS.Op_T.views",
+        "peekOfCode": "def delete_operation_theatre(request, pk):\n    operation = get_object_or_404(OperationTheatre, pk=pk)\n    if request.method == 'POST':\n        operation.delete()\n        return redirect('list')\n    return render(request, 'delete.html', {'operation': operation})",
+        "detail": "HMS.Op_T.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "HMS.Patients.migrations.0001_initial",
+        "description": "HMS.Patients.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='AdmissionDetails',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n            ],",
+        "detail": "HMS.Patients.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "HMS.Patients.migrations.0002_delete_admissiondetails",
+        "description": "HMS.Patients.migrations.0002_delete_admissiondetails",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Patients', '0001_initial'),\n    ]\n    operations = [\n        migrations.DeleteModel(\n            name='AdmissionDetails',\n        ),\n    ]",
+        "detail": "HMS.Patients.migrations.0002_delete_admissiondetails",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "HMS.Patients.migrations.0003_rename_address_patientregistration_address_and_more",
+        "description": "HMS.Patients.migrations.0003_rename_address_patientregistration_address_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Patients', '0002_delete_admissiondetails'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='patientregistration',\n            old_name='Address',\n            new_name='address',\n        ),",
+        "detail": "HMS.Patients.migrations.0003_rename_address_patientregistration_address_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "PatientsConfig",
+        "kind": 6,
+        "importPath": "HMS.Patients.apps",
+        "description": "HMS.Patients.apps",
+        "peekOfCode": "class PatientsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'Patients'",
+        "detail": "HMS.Patients.apps",
+        "documentation": {}
+    },
+    {
+        "label": "RegistrationForm",
+        "kind": 6,
+        "importPath": "HMS.Patients.forms",
+        "description": "HMS.Patients.forms",
+        "peekOfCode": "class RegistrationForm(forms.ModelForm):\n    class Meta:\n        model=PatientRegistration\n        exclude = ['patient_id', 'registration_date']\n        widgets = {\n                    'first_name': forms.TextInput(attrs={'class': 'form-control'}),\n                    'last_name': forms.TextInput(attrs={'class': 'form-control'}),\n                    'email': forms.EmailInput(attrs={'class': 'form-control'}),\n                    'date_of_birth': forms.DateInput(attrs={'class': 'form-control', 'type': 'date'}),\n                    'mobile': forms.TextInput(attrs={'class': 'form-control'}),",
+        "detail": "HMS.Patients.forms",
+        "documentation": {}
+    },
+    {
+        "label": "PatientModelChoice",
+        "kind": 6,
+        "importPath": "HMS.Patients.forms",
+        "description": "HMS.Patients.forms",
+        "peekOfCode": "class PatientModelChoice(forms.ModelChoiceField):\n    def label_from_instance(self, obj):\n        return f'{obj.patient_id} :- {obj.first_name} {obj.last_name}'\nclass AdmissionForm(forms.ModelForm):\n    patient = PatientModelChoice(\n        queryset=PatientRegistration.objects.all(),\n        widget=forms.Select(attrs={'class': 'form-control'})\n    )\n    class Meta:\n        model = AdmissionDetails",
+        "detail": "HMS.Patients.forms",
+        "documentation": {}
+    },
+    {
+        "label": "AdmissionForm",
+        "kind": 6,
+        "importPath": "HMS.Patients.forms",
+        "description": "HMS.Patients.forms",
+        "peekOfCode": "class AdmissionForm(forms.ModelForm):\n    patient = PatientModelChoice(\n        queryset=PatientRegistration.objects.all(),\n        widget=forms.Select(attrs={'class': 'form-control'})\n    )\n    class Meta:\n        model = AdmissionDetails\n        fields = \"__all__\"\n        widgets = {\n            'admission_reason': forms.Textarea(attrs={'class': 'form-control', 'rows': 5}),",
+        "detail": "HMS.Patients.forms",
+        "documentation": {}
+    },
+    {
+        "label": "generate_id",
+        "kind": 2,
+        "importPath": "HMS.Patients.gen_pid",
+        "description": "HMS.Patients.gen_pid",
+        "peekOfCode": "def generate_id():\n    starts_with = 'PAT'\n    ends_with = ''.join(random.choices(string.digits,k=4))\n    return f'{starts_with}{ends_with}'",
+        "detail": "HMS.Patients.gen_pid",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "kind": 6,
+        "importPath": "HMS.Patients.models",
+        "description": "HMS.Patients.models",
+        "peekOfCode": "class BaseModel(models.Model):\n    patient_id = models.CharField(primary_key=True, editable=False, max_length=8)\n    registration_date = models.DateTimeField(auto_now_add=True)\n    class Meta:\n        abstract = True\nclass IssueChoices(models.TextChoices):\n    consultation = 'CONSULTATION', 'Consultation'\n    surgery = 'SURGERY', 'Surgery'\nclass PatientRegistration(BaseModel):\n    first_name = models.CharField(max_length=20, blank=False)",
+        "detail": "HMS.Patients.models",
+        "documentation": {}
+    },
+    {
+        "label": "IssueChoices",
+        "kind": 6,
+        "importPath": "HMS.Patients.models",
+        "description": "HMS.Patients.models",
+        "peekOfCode": "class IssueChoices(models.TextChoices):\n    consultation = 'CONSULTATION', 'Consultation'\n    surgery = 'SURGERY', 'Surgery'\nclass PatientRegistration(BaseModel):\n    first_name = models.CharField(max_length=20, blank=False)\n    last_name = models.CharField(max_length=20, blank=False)\n    email = models.EmailField(unique=True)\n    date_of_birth = models.DateField(blank=False)\n    mobile = models.IntegerField(blank=True, max_length=10)\n    country = models.CharField(blank=False, max_length=13)",
+        "detail": "HMS.Patients.models",
+        "documentation": {}
+    },
+    {
+        "label": "PatientRegistration",
+        "kind": 6,
+        "importPath": "HMS.Patients.models",
+        "description": "HMS.Patients.models",
+        "peekOfCode": "class PatientRegistration(BaseModel):\n    first_name = models.CharField(max_length=20, blank=False)\n    last_name = models.CharField(max_length=20, blank=False)\n    email = models.EmailField(unique=True)\n    date_of_birth = models.DateField(blank=False)\n    mobile = models.IntegerField(blank=True, max_length=10)\n    country = models.CharField(blank=False, max_length=13)\n    state = models.CharField(blank=False, max_length=15)\n    city = models.CharField(blank=False, max_length=13)\n    address = models.TextField()",
+        "detail": "HMS.Patients.models",
+        "documentation": {}
+    },
+    {
+        "label": "AdmissionDetails",
+        "kind": 6,
+        "importPath": "HMS.Patients.models",
+        "description": "HMS.Patients.models",
+        "peekOfCode": "class AdmissionDetails(BaseModel):\n    admission_reason = models.TextField(verbose_name=\"Reason For Admission\", blank=False)\n    admission_date = models.DateField(verbose_name=\"Date of Admission\", editable=True)\n    discharge_date = models.DateField(verbose_name=\"Date of Discharge\", blank=True, null=True)\n    patient = models.ForeignKey(PatientRegistration, on_delete=models.CASCADE)",
+        "detail": "HMS.Patients.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "HMS.Patients.urls",
+        "description": "HMS.Patients.urls",
+        "peekOfCode": "urlpatterns = [\n    # path('admin/', admin.site.urls),\n    path('register',view=patient_register,name='patient_register'),\n    path('',view=patientDashboard,name='patient_dashboard'),\n    path('admission', view=patient_admission, name='patientAdmission'),\n]",
+        "detail": "HMS.Patients.urls",
+        "documentation": {}
+    },
+    {
+        "label": "patient_register",
+        "kind": 2,
+        "importPath": "HMS.Patients.views",
+        "description": "HMS.Patients.views",
+        "peekOfCode": "def patient_register(request):\n    if request.method == 'POST':\n        form = RegistrationForm(request.POST)\n        if form.is_valid():\n            print(\"Form is valid. Redirecting to dashboard.\")\n            form.save()\n            print(\"Form is saved. Redirecting to dashboard.\")\n            return redirect('patient_dashboard')\n    else:\n        form = RegistrationForm()",
+        "detail": "HMS.Patients.views",
+        "documentation": {}
+    },
+    {
+        "label": "patientDashboard",
+        "kind": 2,
+        "importPath": "HMS.Patients.views",
+        "description": "HMS.Patients.views",
+        "peekOfCode": "def patientDashboard(request):\n    return render(request, 'Patient_dashboard.html')\ndef patient_admission(request):\n    if request.method == 'POST':\n        form = AdmissionForm(request.POST)\n        if form.is_valid():\n            form.save()\n            return HttpResponse(\"<h4>Admission Success!</h4>\")\n            # return redirect('patientAdmission')\n    else:",
+        "detail": "HMS.Patients.views",
+        "documentation": {}
+    },
+    {
+        "label": "patient_admission",
+        "kind": 2,
+        "importPath": "HMS.Patients.views",
+        "description": "HMS.Patients.views",
+        "peekOfCode": "def patient_admission(request):\n    if request.method == 'POST':\n        form = AdmissionForm(request.POST)\n        if form.is_valid():\n            form.save()\n            return HttpResponse(\"<h4>Admission Success!</h4>\")\n            # return redirect('patientAdmission')\n    else:\n        form = AdmissionForm()\n    return render(request, 'patient_admission.html', context={'form': form})",
+        "detail": "HMS.Patients.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "HMS.pharmacist.migrations.0001_initial",
+        "description": "HMS.pharmacist.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Medicine',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=100)),",
+        "detail": "HMS.pharmacist.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "PharmacistConfig",
+        "kind": 6,
+        "importPath": "HMS.pharmacist.apps",
+        "description": "HMS.pharmacist.apps",
+        "peekOfCode": "class PharmacistConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'pharmacist'",
+        "detail": "HMS.pharmacist.apps",
+        "documentation": {}
+    },
+    {
+        "label": "MedicineForm",
+        "kind": 6,
+        "importPath": "HMS.pharmacist.forms",
+        "description": "HMS.pharmacist.forms",
+        "peekOfCode": "class MedicineForm(forms.ModelForm):\n    class Meta:\n        model = Medicine\n        fields = ['name', 'company', 'dosage', 'quantity', 'price', 'image']",
+        "detail": "HMS.pharmacist.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Medicine",
+        "kind": 6,
+        "importPath": "HMS.pharmacist.models",
+        "description": "HMS.pharmacist.models",
+        "peekOfCode": "class Medicine(models.Model):\n    name = models.CharField(max_length=100)\n    company = models.CharField(max_length=100)\n    dosage = models.IntegerField()\n    quantity = models.IntegerField()\n    price = models.DecimalField(max_digits=10, decimal_places=2)\n    image = models.ImageField(upload_to='medicines/')\n    def __str__(self):\n        return self.name",
+        "detail": "HMS.pharmacist.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "HMS.pharmacist.urls",
+        "description": "HMS.pharmacist.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', pharmacist_list, name='pharmacist_list'),\n    path('add/',add_medicine, name='add_medicine'),\n    path('update/<int:pk>/', update_medicine, name='update_medicine'),\n    path('delete/<int:pk>/', delete_medicine, name='delete_medicine'),\n]+ static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "detail": "HMS.pharmacist.urls",
+        "documentation": {}
+    },
+    {
+        "label": "pharmacist_list",
+        "kind": 2,
+        "importPath": "HMS.pharmacist.views",
+        "description": "HMS.pharmacist.views",
+        "peekOfCode": "def pharmacist_list(request):\n    medicines = Medicine.objects.all()\n    add_form = MedicineForm()\n    update_form = MedicineForm()\n    context = {\n        'medicines': medicines,\n        'add_form': add_form,\n        'update_form': update_form,\n    }\n    return render(request, 'pharmacist_list.html', context)",
+        "detail": "HMS.pharmacist.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_medicine",
+        "kind": 2,
+        "importPath": "HMS.pharmacist.views",
+        "description": "HMS.pharmacist.views",
+        "peekOfCode": "def add_medicine(request):\n    if request.method == 'POST':\n        form = MedicineForm(request.POST, request.FILES)\n        if form.is_valid():\n            form.save()\n            return redirect('pharmacist_list')\n    return redirect('pharmacist_list')\ndef update_medicine(request, pk):\n    medicine = get_object_or_404(Medicine, pk=pk)\n    if request.method == 'POST':",
+        "detail": "HMS.pharmacist.views",
+        "documentation": {}
+    },
+    {
+        "label": "update_medicine",
+        "kind": 2,
+        "importPath": "HMS.pharmacist.views",
+        "description": "HMS.pharmacist.views",
+        "peekOfCode": "def update_medicine(request, pk):\n    medicine = get_object_or_404(Medicine, pk=pk)\n    if request.method == 'POST':\n        form = MedicineForm(request.POST, request.FILES, instance=medicine)\n        if form.is_valid():\n            form.save()\n            return redirect('pharmacist_list')\n    return redirect('pharmacist_list')\ndef delete_medicine(request, pk):\n    medicine = get_object_or_404(Medicine, pk=pk)",
+        "detail": "HMS.pharmacist.views",
+        "documentation": {}
+    },
+    {
+        "label": "delete_medicine",
+        "kind": 2,
+        "importPath": "HMS.pharmacist.views",
+        "description": "HMS.pharmacist.views",
+        "peekOfCode": "def delete_medicine(request, pk):\n    medicine = get_object_or_404(Medicine, pk=pk)\n    if request.method == 'POST':\n        medicine.delete()\n        return redirect('pharmacist_list')\n    return redirect('pharmacist_list')",
+        "detail": "HMS.pharmacist.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "HMS.manage",
+        "description": "HMS.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'HMS.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "HMS.manage",
+        "documentation": {}
+    }
+]

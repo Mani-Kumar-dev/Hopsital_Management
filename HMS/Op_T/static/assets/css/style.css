@@ -1,0 +1,24 @@
+
+body {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/static/assets/images/bg.jpg) !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    /* color: white !important; */
+}
+body {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 13px;
+}
+.container {
+    margin-top: 50px;
+}
+
+.card {
+    background: rgb(225 225 225 / 80%);
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0,0.1);
+}
+.card-list {
+    background: #ffffff;
+}

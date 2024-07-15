@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Patient Detail</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1 class="mt-5">Patient Detail</h1>
+        <ul class="list-group mt-3">
+            {% for patient in patients %}
+                <li class="list-group-item">
+                    <strong>Name:</strong> {{ patient.name }}<br>
+                    <strong>Age:</strong> {{ patient.age }}<br>
+                    <strong>Gender:</strong> {{ patient.gender }}<br>
+                    <strong>Admission Date:</strong> {{ patient.admission_date }}<br>
+                    <strong>Diagnosis:</strong> {{ patient.diagnosis }}<br>
+                    <strong>Room Number:</strong> {{ patient.room_number }}
+                    <strong>Discharge Date:</strong> {{ patient.discharge_date }}<br>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+</body>
+</html>

@@ -1,0 +1,107 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}
+<title>Pharmacist List</title>
+{% endblock %}
+
+{% block content %}
+<main class="container my-4">
+    <div class="text-center">
+        <img src="{% static 'assets/images/pharmacy.jpg' %}" alt="Pharmacy Image" class="img-fluid" style="height: auto; width: 20%;">
+        <h2 class="my-4">Pharmacy</h2>
+    </div>
+
+    <!-- Add Medicine Button -->
+    <div class="text-end mb-4">
+        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#addMedicineModal">
+            Add Medicine
+        </button>
+    </div>
+
+    <!-- Medicines List -->
+    <div class="row g-3">
+        {% for medicine in medicines %}
+        <div class="col-lg-3 col-md-6 col-sm-12">
+            <div class="card">
+                <img src="{{ medicine.image.url }}" class="card-img-top" alt="{{ medicine.name }}">
+                <div class="card-body">
+                    <h5 class="card-title">{{ medicine.name }}</h5>
+                    <p class="card-text">Manufacturing Company: {{ medicine.company }}</p>
+                    <p class="card-text">Dosage: {{ medicine.dosage }} mg</p>
+                    <p class="card-text">Quantity Available: {{ medicine.quantity }}</p>
+                    <p class="card-text">Price: ${{ medicine.price }}</p>
+                    <div class="d-flex justify-content-between">
+                        <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#updateMedicineModal{{ medicine.id }}">
+                            Update
+                        </button>
+                        <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#deleteMedicineModal{{ medicine.id }}">
+                            Delete
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Update Medicine Modal -->
+        <div class="modal fade" id="updateMedicineModal{{ medicine.id }}" tabindex="-1" aria-labelledby="updateMedicineModalLabel{{ medicine.id }}" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="updateMedicineModalLabel{{ medicine.id }}">Update Medicine</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <form method="post" action="{% url 'update_medicine' medicine.id %}" enctype="multipart/form-data">
+                            {% csrf_token %}
+                            {{ update_form.as_p }}
+                            <button type="submit" class="btn btn-warning">Update</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Delete Medicine Modal -->
+        <div class="modal fade" id="deleteMedicineModal{{ medicine.id }}" tabindex="-1" aria-labelledby="deleteMedicineModalLabel{{ medicine.id }}" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="deleteMedicineModalLabel{{ medicine.id }}">Delete Medicine</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div class="modal-body">
+                        <p>Are you sure you want to delete {{ medicine.name }}?</p>
+                    </div>
+                    <div class="modal-footer">
+                        <form method="post" action="{% url 'delete_medicine' medicine.id %}">
+                            {% csrf_token %}
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <!-- Add Medicine Modal -->
+    <div class="modal fade" id="addMedicineModal" tabindex="-1" aria-labelledby="addMedicineModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="addMedicineModalLabel">Add Medicine</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form method="post" action="{% url 'add_medicine' %}" enctype="multipart/form-data">
+                        {% csrf_token %}
+                        {{ add_form.as_p }}
+                        <button type="submit" class="btn btn-primary">Add</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+{% endblock %}

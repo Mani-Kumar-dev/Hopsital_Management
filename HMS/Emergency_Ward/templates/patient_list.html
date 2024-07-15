@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1 class="label d-block text-white">Emergency Ward Patient's List</h1>
+
+<!-- Create Patient Modal -->
+{% include 'patient_create.html' %}
+
+<div class="row row-cols-1 row-cols-md-2 g-4">
+  {% for patient in patients %}
+  <div class="col">
+    <div class="card h-100">
+      <div class="card-body">
+        <h5 class="card-title">{{ patient.name }}</h5>
+        <p class="card-text">Age: {{ patient.age }}</p>
+        <p class="card-text">Gender: {{ patient.gender }}</p>
+        <p class="card-text">Admission Date: {{ patient.admission_date }}</p>
+        <p class="card-text">Diagnosis: {{ patient.diagnosis }}</p>
+        <p class="card-text">Room Number: {{ patient.room_number }}</p>
+        <p class="card-text">Discharge Date: {{ patient.discharge_date }}</p>
+        <div class="d-flex justify-content-between">
+          <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#updatePatientModal-{{ patient.id }}">Update</a>
+          <a href="#" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#deletePatientModal-{{ patient.id }}">Delete</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Update Patient Modal -->
+    {% include 'patient_update.html' with patient=patient %}
+
+    <!-- Delete Patient Modal -->
+    {% include 'patient_delete.html' with patient=patient %}
+  </div>
+  {% endfor %}
+</div>
+{% endblock %}

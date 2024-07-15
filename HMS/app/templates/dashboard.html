@@ -1,0 +1,114 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}
+<title>Dashboard</title>
+{% endblock %}
+
+{% block content %}
+<main class="container my-4">
+    <h2 class="mb-4">Dashboard</h2>
+    <div class="row g-3">
+        <div class="col-md-3">
+            <div class="card-base bg-primary text-white text-center">
+                <div class="card-body-base">
+                    <i class="fas fa-dollar-sign icon"></i>
+                    <span class="count display-4"></span>
+                    <span class="label d-block text-white">PayMents</span>
+                    <!-- <a href="#" class="text-white">More Info</a> -->
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card-base bg-info text-white text-center">
+                <div class="card-body-base">
+                    <i class="fas fa-user-md icon"></i>
+                    <span class="count display-4"></span>
+                    <a href="/doctor" class="label d-block text-white">Doctors</a>
+                    <!-- <a href="/doctor" class="text-white">More Info</a> -->
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card-base bg-success text-white text-center">
+                <div class="card-body-base">
+                    <i class="fas fa-user-nurse icon"></i>
+                    <span class="count display-4"></span>
+                    <a href="/nurses" class="label d-block text-white">Nurses</a>
+                    <!-- <a href="/nurses" class="text-white">More Info</a> -->
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card-base bg-warning text-white text-center">
+                <div class="card-body-base">
+                    <i class="fas fa-procedures icon"></i>
+                    <span class="count display-4"></span>
+                    <a href="/patients" class="label d-block text-white">Patients</a>
+                    <!-- <a href="/patients" class="text-white">More Info</a> -->
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card-base bg-secondary text-white text-center">
+                <div class="card-body-base">
+                    <i class="fas fa-calculator icon"></i>
+                    <span class="count display-4"></span>
+                    <a href="#" class="label d-block text-white">Accountants</a>
+                    <!-- <a href="#" class="text-white">More Info</a> -->
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card-base bg-dark text-white text-center">
+                <div class="card-body-base">
+                    <i class="fas fa-pills icon"></i>
+                    <span class="count display-4"></span>
+                    <a href="/pharmacist" class="label d-block text-white">Pharmacists</a>
+                    <!-- <a href="#" class="text-white">More Info</a> -->
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card-base bg-danger text-white text-center">
+                <div class="card-body-base">
+                    <i class="fas fa-vials icon"></i>
+                    <span class="count display-4"></span>
+                    <a href="/lab" class="label d-block text-white">Laboratorists</a>
+                    <!-- <a href="#" class="text-white">More Info</a> -->
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card-base bg-info text-white text-center">
+                <div class="card-body-base">
+                    <i class="fas fa-user icon"></i>
+                    <span class="count display-4"></span>
+                    <a href="#" class="label d-block text-white">Receptionists</a>
+                    <!-- <a href="#" class="text-white">More Info</a> -->
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card-base bg-danger text-white text-center">
+                <div class="card-body-base">
+                    <i class="fas fa-ambulance icon"></i>
+                    <span class="count display-4"></span>
+                    <a href="/Emergency_Ward" class="label d-block text-white">Emergency Ward</a>
+                    <!-- <a href="#" class="text-white">More Info</a> -->
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card-base bg-primary text-white text-center">
+                <div class="card-body-base">
+                    <i class="fas fa-procedures icon"></i>
+                    <span class="count display-4"></span>
+                    <a href="/Op_T" class="label d-block text-white">Operation Theatre</a>
+                    <!-- <a href="#" class="text-white">More Info</a> -->
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+{% endblock %}
